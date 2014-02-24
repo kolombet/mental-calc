@@ -30,6 +30,15 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.alert {
+	display: none;
+	margin: 5px 0;
+}
+
+.level-bar {
+	margin: 5px 0;
+}
 /*
 .question {
 	font-size: 20pt;
